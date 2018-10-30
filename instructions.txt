@@ -1,2 +1,3 @@
 This is a text file.
 Instructions are written in this file about git and GitHub
+A CHANGE MADE IN THE SAMPLE-BRANCH
